@@ -1,0 +1,18 @@
+[
+  {"set":"Communication", "desc":"Professional", "rate":"5/5"},
+	  {"set":"Team Work", "desc":"Professional", "rate":"5/5"},
+	  {"set":"Problem Solving", "desc":"Professional", "rate":"4/5"},
+	  {"set":"Leadership", "desc":"Professional", "rate":"4/5"},
+	  {"set":"Negotiation", "desc":"Professional", "rate":"4/5"},
+	  {"set":"Managment", "desc":"Professional", "rate":"4/5"},
+	  {"set":"Adaptability", "desc":"Professional", "rate":"4/5"},
+	{"set":"Java Script", "desc":"Coding Language", "rate":"3.5/5"},
+	{"set":"C#", "desc":"Coding Language", "rate":"4/5"},
+	{"set":"HTML5", "desc":"Coding Language", "rate":"5/5"},
+	{"set":"CSS", "desc":"Coding Language", "rate":"5/5"},
+	{"set":".NET", "desc":"Coding Language", "rate":"4/5"},
+	{"set":"VUE", "desc":"Coding Language", "rate":"4/5"},
+	{"set":"Ruby", "desc":"Coding Language", "rate":"4/5"},
+	{"set":"English", "desc":"Language", "rate":"4.5/5"},
+	{"set":"Hindi", "desc":"Language", "rate":"5/5"}
+]
